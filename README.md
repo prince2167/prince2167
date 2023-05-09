@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **javaScript and react**
+- 👯 I’m looking to collaborate on any Web Development project.
 
-- 📫 How to reach me **prince.dev205@gmail.com**
+- 💬 Ask me about **javaScript and ReactJs**
+
+- 📫 How to reach me: Contact me directly on this mail **prince.dev205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
