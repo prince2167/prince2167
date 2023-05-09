@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Singh</h1>
 <h3>I'm Prince Singh </h3> <h3>  Frontend Developer, tech enthusiast.</h3> <h3> Proficient in HTML, CSS, tailwind, JavaScript, React. Plus modern libraries and frameworks.</h3>
-<img align = "right" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align = "center" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince2167&label=Profile%20views&color=0e75b6&style=flat" alt="prince2167" /> </p>
 
